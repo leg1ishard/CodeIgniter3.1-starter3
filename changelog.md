@@ -3,6 +3,9 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-10-20 15:58 - Dennis
+- Modified hiring description.
+
 2016-10-20 14:10 - Matthew
 - Created shopping page, shopping controller, fake receipt.
 - Created menuitem-shop and category-shop templates
