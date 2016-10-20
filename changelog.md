@@ -3,6 +3,9 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-10-20 13:39 - Dennis
+- Created hiring page. Hiring description to be changed.
+
 2016-10-20 13:12 - Dennis
 - Created homepage, navbar, loaded db dump.
 
