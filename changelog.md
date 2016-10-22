@@ -3,6 +3,9 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-10-22 11:53 - Dennis
+Cleaned up project for submission.
+
 2016-10-20 15:58 - Dennis
 - Modified hiring description.
 
