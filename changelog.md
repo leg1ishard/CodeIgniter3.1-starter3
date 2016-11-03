@@ -3,6 +3,10 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-11-03 16:48 - Dennis
+- Added user role to Navbar
+- Fixed the Navbar
+
 2016-11-03 16:31 - Dennis
 - Simplified templates
 
