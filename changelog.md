@@ -3,6 +3,10 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-11-03 16:25 - Matthew
+- Installed and Enabled Caboose
+- Fixed typos
+
 2016-10-22 11:53 - Dennis
 Cleaned up project for submission.
 
