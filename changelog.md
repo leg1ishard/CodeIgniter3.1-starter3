@@ -3,6 +3,12 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+
+2016-11-04 13:55 - Matthew
+- Added Toggle controller
+- Added Crud controller
+- Added template-maintenance view
+
 2016-11-03 16:48 - Dennis
 - Added user role to Navbar
 - Fixed the Navbar
