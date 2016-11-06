@@ -3,6 +3,8 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-11-06 15:01 - Dennis
+- Added restriction to Crud controller to allow only admin to maintenance page.
 
 2016-11-04 13:55 - Matthew
 - Added Toggle controller

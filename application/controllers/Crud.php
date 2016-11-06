@@ -19,11 +19,14 @@ class Crud extends Application {
         }
         
 	public function index()	{
-                
+        $this->data['pagebody'] = "template-maintenance";    
+
 		$role = $this->session->userdata('userrole');
-                
-                $this->data['message'] = "Welcome " . $role;
-                $this->data['pagebody'] = "template-maintenance";
+        if ($role == 'admin') {        
+	        $this->data['message'] = "Welcome " . $role;
+        } else {
+        	$this->data['message'] = "You are not authorized to access this page. Go away.";
+        }
                 
 		$this->render('template-maintenance');
 	}
