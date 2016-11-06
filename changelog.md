@@ -3,6 +3,29 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-11-06 15:01 - Dennis
+- Added restriction to Crud controller to allow only admin to maintenance page.
+
+2016-11-04 13:55 - Matthew
+- Added Toggle controller
+- Added Crud controller
+- Added template-maintenance view
+
+2016-11-03 16:48 - Dennis
+- Added user role to Navbar
+- Fixed the Navbar
+
+2016-11-03 16:31 - Dennis
+- Simplified templates
+
+2016-11-03 16:25 - Matthew
+- Installed and Enabled Caboose
+- Fixed typos
+
+2016-11-03 16:00 - Dennis
+- Updated starter-data.sql.
+- Added session to autoloader.
+
 2016-10-22 11:53 - Dennis
 Cleaned up project for submission.
 
