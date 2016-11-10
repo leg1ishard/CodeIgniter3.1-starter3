@@ -3,6 +3,11 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+2016-11-10 15:49 - Matthew
+- Added Edit in Crud Controller
+- Added mtce and mtce-edit View
+- Used boostrap to style mtce and mtce-view
+
 2016-11-06 15:01 - Dennis
 - Added restriction to Crud controller to allow only admin to maintenance page.
 
