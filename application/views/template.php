@@ -8,10 +8,10 @@
         {caboose_styles}
     </head>
     <body>
-        <div id="container">
+        <div class="container">
         	{navbar}
             {content}
-        </div>
+        </div> <!-- end container -->
         {caboose_scripts}
         {caboose_trailings}
     </body>
