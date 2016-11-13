@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls=""navbar">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -20,7 +20,6 @@
                 <li><a href="/toggle">Toggle Role</a></li>
             </ul>
             <p class="navbar-text navbar-right">Role: {userrole}</p>
-        </div><!-- /.navbar-collapse -->
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
