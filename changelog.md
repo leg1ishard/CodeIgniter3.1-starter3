@@ -3,7 +3,12 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
-2016-12-10 13:30 - Dennis
+2016-11-18 08:32 - Dennis
+- Created Order model
+- Created summary view
+- Modified shopping view and controller to allow for selection of menu items and store in new order
+
+2016-11-10 13:30 - Dennis
 - Implemented update in Crud controller
 - Updated edit in Crud controller
 - Added rules to Menu model
