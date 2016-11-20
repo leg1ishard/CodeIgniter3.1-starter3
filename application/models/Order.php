@@ -42,7 +42,8 @@ class Order extends CI_Model {
             $result = $this->data['pagetitle'] . '  ' . PHP_EOL;
             $result .= date(DATE_ATOM) . PHP_EOL;
             $result .= PHP_EOL . 'Your Order:'. PHP_EOL . PHP_EOL;
-            $result .= PHP_EOL . '<h3>' . $this->number . '</h3>' . PHP_EOL . PHP_EOL;
+            if ($this->number != 0)
+                $result .= PHP_EOL . '<h3>' . $this->number . '</h3>' . PHP_EOL . PHP_EOL;
             
             foreach($this->items as $key => $value) {
                 $menu = $this->menu->get($key);

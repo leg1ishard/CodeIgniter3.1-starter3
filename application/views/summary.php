@@ -2,7 +2,7 @@
 
 <table class="table">
         <tr><th>Order #</th><th>Date/time</th><th>Amount</th></tr>
-            {orders}
+{orders}
     <tr>
         <td><a href="/shopping/examine/{number}">{number}</a></td>
         <td>{datetime}</td>
