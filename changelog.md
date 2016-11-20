@@ -3,6 +3,13 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
+
+2016-11-19 15:12 - Matthew
+- Show order receipt
+- Initiate and Validate order checkout
+- Added order summary
+- Added examine old order
+
 2016-11-18 08:32 - Dennis
 - Created Order model
 - Created summary view
