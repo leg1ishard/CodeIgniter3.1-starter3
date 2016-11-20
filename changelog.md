@@ -3,7 +3,22 @@ Members: Matthew, Dennis
 Org: 4711-Lab5
 ==============================
 
-2016-12-10 13:30 - Dennis
+2016-11-20 11:45 - Dennis
+- Hid order number during shopping
+- Added pop to the menu, created new sql dump
+
+2016-11-19 15:12 - Matthew
+- Show order receipt
+- Initiate and Validate order checkout
+- Added order summary
+- Added examine old order
+
+2016-11-18 08:32 - Dennis
+- Created Order model
+- Created summary view
+- Modified shopping view and controller to allow for selection of menu items and store in new order
+
+2016-11-10 13:30 - Dennis
 - Implemented update in Crud controller
 - Updated edit in Crud controller
 - Added rules to Menu model
