@@ -5,6 +5,7 @@ Org: 4711-Lab5
 
 2016-11-20 11:45 - Dennis
 - Hid order number during shopping
+- Added pop to the menu, created new sql dump
 
 2016-11-19 15:12 - Matthew
 - Show order receipt
